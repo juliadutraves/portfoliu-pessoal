@@ -1,7 +1,7 @@
 # Indice 
 
 * [PROJETO ESCRITA DO README](#projeto-escrita-do-readme)
-* [Descrição] (#descrição)
+* [Descrição] (#descricao)
 * [Intrudução](#intrudu%C3%A7%C3%A3o)
 * [Funcionalidade](#funcionalidade)
 * [Tecnologia ultilizadas](#tecnologia-ultilizadas)
